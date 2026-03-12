@@ -5,6 +5,7 @@
 - 🤔 Dedicated to building the next generation of general artificial intelligence
 - 💬 Feel free to discuss any ideas or questions with me
 - 🥺 Work Experience
+  - [GLM-OCR Technical Report](https://arxiv.org/abs/2603.10910)
   - [GLM-OCR: Accurate × Fast × Comprehensive](https://github.com/zai-org/GLM-OCR)
   - [PlotGen-Bench: Evaluating VLMs on Generating Visualization Code from Diverse Plots across Multiple Libraries](https://arxiv.org/abs/2601.11525)
   - [GLM-4.5V and GLM-4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning](https://arxiv.org/abs/2507.01006)
